@@ -1,0 +1,4 @@
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.exe
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.pdb
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 2. Bonus Score\obj\x86\Debug\Problem_2.Bonus_Score.exe
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 2. Bonus Score\obj\x86\Debug\Problem_2.Bonus_Score.pdb

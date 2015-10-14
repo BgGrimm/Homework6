@@ -1,0 +1,4 @@
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 7. Sort 3 Numbers\bin\Debug\Problem_7.Sort_3_Numbers.exe
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 7. Sort 3 Numbers\bin\Debug\Problem_7.Sort_3_Numbers.pdb
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 7. Sort 3 Numbers\obj\x86\Debug\Problem_7.Sort_3_Numbers.exe
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 7. Sort 3 Numbers\obj\x86\Debug\Problem_7.Sort_3_Numbers.pdb

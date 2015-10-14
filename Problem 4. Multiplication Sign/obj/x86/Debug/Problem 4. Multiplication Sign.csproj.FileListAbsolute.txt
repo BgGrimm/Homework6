@@ -1,0 +1,4 @@
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 4. Multiplication Sign\bin\Debug\Problem_4.Multiplication_Sign.exe
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 4. Multiplication Sign\bin\Debug\Problem_4.Multiplication_Sign.pdb
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 4. Multiplication Sign\obj\x86\Debug\Problem_4.Multiplication_Sign.exe
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 4. Multiplication Sign\obj\x86\Debug\Problem_4.Multiplication_Sign.pdb

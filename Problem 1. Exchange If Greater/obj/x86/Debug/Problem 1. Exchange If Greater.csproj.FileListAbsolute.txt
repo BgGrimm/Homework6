@@ -1,0 +1,4 @@
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 1. Exchange If Greater\bin\Debug\Problem_1.Exchange_If_Greater.exe
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 1. Exchange If Greater\bin\Debug\Problem_1.Exchange_If_Greater.pdb
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 1. Exchange If Greater\obj\x86\Debug\Problem_1.Exchange_If_Greater.exe
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 1. Exchange If Greater\obj\x86\Debug\Problem_1.Exchange_If_Greater.pdb

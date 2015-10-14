@@ -1,0 +1,4 @@
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 6. TheBiggestOfFiveNumbers\bin\Debug\Problem_6.TheBiggestOfFiveNumbers.exe
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 6. TheBiggestOfFiveNumbers\bin\Debug\Problem_6.TheBiggestOfFiveNumbers.pdb
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 6. TheBiggestOfFiveNumbers\obj\x86\Debug\Problem_6.TheBiggestOfFiveNumbers.exe
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 6. TheBiggestOfFiveNumbers\obj\x86\Debug\Problem_6.TheBiggestOfFiveNumbers.pdb

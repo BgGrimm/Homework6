@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Exchange If Greater", "Problem 1. Exchange If Greater\Problem 1. Exchange If Greater.csproj", "{AA79DB52-650F-4D2C-9A63-92E71A2C1B28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Bonus Score", "Problem 2. Bonus Score\Problem 2. Bonus Score.csproj", "{9337E609-4E65-4A4F-9A50-3F85EB1A9070}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Check for a Play Card", "Problem 3. Check for a Play Card\Problem 3. Check for a Play Card.csproj", "{A1053DB8-DA47-4434-A46F-323450DEE1E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Multiplication Sign", "Problem 4. Multiplication Sign\Problem 4. Multiplication Sign.csproj", "{C84D8C01-4447-4376-A194-BCC1BC0E3272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5. The Biggest of 3 Numbers", "Problem 5. The Biggest of 3 Numbers\Problem 5. The Biggest of 3 Numbers.csproj", "{EB49D26C-AABE-4353-AF08-A793188F9B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6. TheBiggestOfFiveNumbers", "Problem 6. TheBiggestOfFiveNumbers\Problem 6. TheBiggestOfFiveNumbers.csproj", "{5655E775-5354-49E8-8D1D-F25FA5123593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 7. Sort 3 Numbers", "Problem 7. Sort 3 Numbers\Problem 7. Sort 3 Numbers.csproj", "{0998E967-C223-42CA-A1B7-C23F245FC3BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 8. Digit as Word", "Problem 8. Digit as Word\Problem 8. Digit as Word.csproj", "{9E8C2DC0-44C0-4CBA-8638-FE0D8DC8E850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 9. IntDoubleString", "Problem 9. IntDoubleString\Problem 9. IntDoubleString.csproj", "{058E5FB6-0DD8-4A08-A9E3-DECED3E9302D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA79DB52-650F-4D2C-9A63-92E71A2C1B28}.Debug|x86.ActiveCfg = Debug|x86
+		{AA79DB52-650F-4D2C-9A63-92E71A2C1B28}.Debug|x86.Build.0 = Debug|x86
+		{AA79DB52-650F-4D2C-9A63-92E71A2C1B28}.Release|x86.ActiveCfg = Release|x86
+		{AA79DB52-650F-4D2C-9A63-92E71A2C1B28}.Release|x86.Build.0 = Release|x86
+		{9337E609-4E65-4A4F-9A50-3F85EB1A9070}.Debug|x86.ActiveCfg = Debug|x86
+		{9337E609-4E65-4A4F-9A50-3F85EB1A9070}.Debug|x86.Build.0 = Debug|x86
+		{9337E609-4E65-4A4F-9A50-3F85EB1A9070}.Release|x86.ActiveCfg = Release|x86
+		{9337E609-4E65-4A4F-9A50-3F85EB1A9070}.Release|x86.Build.0 = Release|x86
+		{A1053DB8-DA47-4434-A46F-323450DEE1E9}.Debug|x86.ActiveCfg = Debug|x86
+		{A1053DB8-DA47-4434-A46F-323450DEE1E9}.Debug|x86.Build.0 = Debug|x86
+		{A1053DB8-DA47-4434-A46F-323450DEE1E9}.Release|x86.ActiveCfg = Release|x86
+		{A1053DB8-DA47-4434-A46F-323450DEE1E9}.Release|x86.Build.0 = Release|x86
+		{C84D8C01-4447-4376-A194-BCC1BC0E3272}.Debug|x86.ActiveCfg = Debug|x86
+		{C84D8C01-4447-4376-A194-BCC1BC0E3272}.Debug|x86.Build.0 = Debug|x86
+		{C84D8C01-4447-4376-A194-BCC1BC0E3272}.Release|x86.ActiveCfg = Release|x86
+		{C84D8C01-4447-4376-A194-BCC1BC0E3272}.Release|x86.Build.0 = Release|x86
+		{EB49D26C-AABE-4353-AF08-A793188F9B3D}.Debug|x86.ActiveCfg = Debug|x86
+		{EB49D26C-AABE-4353-AF08-A793188F9B3D}.Debug|x86.Build.0 = Debug|x86
+		{EB49D26C-AABE-4353-AF08-A793188F9B3D}.Release|x86.ActiveCfg = Release|x86
+		{EB49D26C-AABE-4353-AF08-A793188F9B3D}.Release|x86.Build.0 = Release|x86
+		{5655E775-5354-49E8-8D1D-F25FA5123593}.Debug|x86.ActiveCfg = Debug|x86
+		{5655E775-5354-49E8-8D1D-F25FA5123593}.Debug|x86.Build.0 = Debug|x86
+		{5655E775-5354-49E8-8D1D-F25FA5123593}.Release|x86.ActiveCfg = Release|x86
+		{5655E775-5354-49E8-8D1D-F25FA5123593}.Release|x86.Build.0 = Release|x86
+		{0998E967-C223-42CA-A1B7-C23F245FC3BB}.Debug|x86.ActiveCfg = Debug|x86
+		{0998E967-C223-42CA-A1B7-C23F245FC3BB}.Debug|x86.Build.0 = Debug|x86
+		{0998E967-C223-42CA-A1B7-C23F245FC3BB}.Release|x86.ActiveCfg = Release|x86
+		{0998E967-C223-42CA-A1B7-C23F245FC3BB}.Release|x86.Build.0 = Release|x86
+		{9E8C2DC0-44C0-4CBA-8638-FE0D8DC8E850}.Debug|x86.ActiveCfg = Debug|x86
+		{9E8C2DC0-44C0-4CBA-8638-FE0D8DC8E850}.Debug|x86.Build.0 = Debug|x86
+		{9E8C2DC0-44C0-4CBA-8638-FE0D8DC8E850}.Release|x86.ActiveCfg = Release|x86
+		{9E8C2DC0-44C0-4CBA-8638-FE0D8DC8E850}.Release|x86.Build.0 = Release|x86
+		{058E5FB6-0DD8-4A08-A9E3-DECED3E9302D}.Debug|x86.ActiveCfg = Debug|x86
+		{058E5FB6-0DD8-4A08-A9E3-DECED3E9302D}.Debug|x86.Build.0 = Debug|x86
+		{058E5FB6-0DD8-4A08-A9E3-DECED3E9302D}.Release|x86.ActiveCfg = Release|x86
+		{058E5FB6-0DD8-4A08-A9E3-DECED3E9302D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

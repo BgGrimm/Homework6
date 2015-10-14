@@ -1,0 +1,4 @@
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 9. IntDoubleString\bin\Debug\Problem_9.IntDoubleString.exe
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 9. IntDoubleString\bin\Debug\Problem_9.IntDoubleString.pdb
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 9. IntDoubleString\obj\x86\Debug\Problem_9.IntDoubleString.exe
+C:\Users\Margarit\Desktop\Software University\6. Условни конструкции\Homework 6 - Conditional-Statements\Problem 9. IntDoubleString\obj\x86\Debug\Problem_9.IntDoubleString.pdb
